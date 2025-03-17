@@ -1,0 +1,15 @@
+C:\Users\akirasz\projects\studies\aula1_cursonelio\bin\Debug\net9.0\aula1_cursonelio.exe
+C:\Users\akirasz\projects\studies\aula1_cursonelio\bin\Debug\net9.0\aula1_cursonelio.deps.json
+C:\Users\akirasz\projects\studies\aula1_cursonelio\bin\Debug\net9.0\aula1_cursonelio.runtimeconfig.json
+C:\Users\akirasz\projects\studies\aula1_cursonelio\bin\Debug\net9.0\aula1_cursonelio.dll
+C:\Users\akirasz\projects\studies\aula1_cursonelio\bin\Debug\net9.0\aula1_cursonelio.pdb
+C:\Users\akirasz\projects\studies\aula1_cursonelio\obj\Debug\net9.0\aula1_cursonelio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akirasz\projects\studies\aula1_cursonelio\obj\Debug\net9.0\aula1_cursonelio.AssemblyInfoInputs.cache
+C:\Users\akirasz\projects\studies\aula1_cursonelio\obj\Debug\net9.0\aula1_cursonelio.AssemblyInfo.cs
+C:\Users\akirasz\projects\studies\aula1_cursonelio\obj\Debug\net9.0\aula1_cursonelio.csproj.CoreCompileInputs.cache
+C:\Users\akirasz\projects\studies\aula1_cursonelio\obj\Debug\net9.0\aula1_cursonelio.sourcelink.json
+C:\Users\akirasz\projects\studies\aula1_cursonelio\obj\Debug\net9.0\aula1_cursonelio.dll
+C:\Users\akirasz\projects\studies\aula1_cursonelio\obj\Debug\net9.0\refint\aula1_cursonelio.dll
+C:\Users\akirasz\projects\studies\aula1_cursonelio\obj\Debug\net9.0\aula1_cursonelio.pdb
+C:\Users\akirasz\projects\studies\aula1_cursonelio\obj\Debug\net9.0\aula1_cursonelio.genruntimeconfig.cache
+C:\Users\akirasz\projects\studies\aula1_cursonelio\obj\Debug\net9.0\ref\aula1_cursonelio.dll
