@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula1_cursonelio", "aula1_cursonelio\aula1_cursonelio.csproj", "{83E76684-C0E3-467A-8429-C2D3E582B02A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula2_cursonelio", "aula2_cursonelio\aula2_cursonelio.csproj", "{3006AE2F-80FA-41AC-8673-4E46A7F5362D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{83E76684-C0E3-467A-8429-C2D3E582B02A}.Release|x64.Build.0 = Release|Any CPU
 		{83E76684-C0E3-467A-8429-C2D3E582B02A}.Release|x86.ActiveCfg = Release|Any CPU
 		{83E76684-C0E3-467A-8429-C2D3E582B02A}.Release|x86.Build.0 = Release|Any CPU
+		{3006AE2F-80FA-41AC-8673-4E46A7F5362D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3006AE2F-80FA-41AC-8673-4E46A7F5362D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3006AE2F-80FA-41AC-8673-4E46A7F5362D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3006AE2F-80FA-41AC-8673-4E46A7F5362D}.Debug|x64.Build.0 = Debug|Any CPU
+		{3006AE2F-80FA-41AC-8673-4E46A7F5362D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3006AE2F-80FA-41AC-8673-4E46A7F5362D}.Debug|x86.Build.0 = Debug|Any CPU
+		{3006AE2F-80FA-41AC-8673-4E46A7F5362D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3006AE2F-80FA-41AC-8673-4E46A7F5362D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3006AE2F-80FA-41AC-8673-4E46A7F5362D}.Release|x64.ActiveCfg = Release|Any CPU
+		{3006AE2F-80FA-41AC-8673-4E46A7F5362D}.Release|x64.Build.0 = Release|Any CPU
+		{3006AE2F-80FA-41AC-8673-4E46A7F5362D}.Release|x86.ActiveCfg = Release|Any CPU
+		{3006AE2F-80FA-41AC-8673-4E46A7F5362D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
