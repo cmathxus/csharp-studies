@@ -17,7 +17,6 @@ Este curso cobre os seguintes tópicos:
 ### 🖥️ Tecnologias
 - **C#**: Linguagem principal do curso, com ênfase em orientação a objetos e desenvolvimento backend.
 - **.NET**: Framework utilizado para desenvolvimento de aplicações.
-- **Visual Studio**: IDE principal para desenvolvimento e execução dos códigos.
 - **VS Code**: Alternativa para desenvolvimento, com adaptações necessárias.
 
 ### ✔️ Objetivo
