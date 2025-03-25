@@ -10,10 +10,10 @@ namespace exercicio1{
             double num = Double.Parse(Console.ReadLine());
 
             if (num >= 0) {
-                System.Console.WriteLine("Positivo");
+                System.Console.WriteLine("O número digitado é positivo");
             }
             else {
-                System.Console.WriteLine("Negativo");
+                System.Console.WriteLine("O número digitado é negativo");
             }
         }
     }
