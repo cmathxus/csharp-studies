@@ -1,7 +1,6 @@
 ﻿// Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou positivo
 
 using System;
-using System.Reflection;
 
 namespace exercicio1{
     class Program {
