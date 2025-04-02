@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace aula3_cursonelio;
+namespace aula3;
 class Program{
 static void Main (string [] args) {
         float x = 4.5f;
@@ -19,10 +19,10 @@ static void Main (string [] args) {
         System.Console.WriteLine(b);
 
         double z;
-        int x;
+        int v;
 
         z = 5.1;
-        x = (int)z; // fazendo o casting -> transformando o double em int 
+        v = (int)z; // fazendo o casting -> transformando o double em int 
 
         System.Console.WriteLine(x); // nesse caso vou ter perda de informação devido ao numero inteiro
     

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akirasz\\projects\\studies\\aulas\\aula3\\aula3.csproj": {}
+    "C:\\Users\\akirasz\\projects\\studies\\Aulas\\aula3\\aula3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akirasz\\projects\\studies\\aulas\\aula3\\aula3.csproj": {
+    "C:\\Users\\akirasz\\projects\\studies\\Aulas\\aula3\\aula3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akirasz\\projects\\studies\\aulas\\aula3\\aula3.csproj",
+        "projectUniqueName": "C:\\Users\\akirasz\\projects\\studies\\Aulas\\aula3\\aula3.csproj",
         "projectName": "aula3",
-        "projectPath": "C:\\Users\\akirasz\\projects\\studies\\aulas\\aula3\\aula3.csproj",
+        "projectPath": "C:\\Users\\akirasz\\projects\\studies\\Aulas\\aula3\\aula3.csproj",
         "packagesPath": "C:\\Users\\akirasz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akirasz\\projects\\studies\\aulas\\aula3\\obj\\",
+        "outputPath": "C:\\Users\\akirasz\\projects\\studies\\Aulas\\aula3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akirasz\\AppData\\Roaming\\NuGet\\NuGet.Config"
