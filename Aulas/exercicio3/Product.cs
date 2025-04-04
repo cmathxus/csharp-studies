@@ -42,6 +42,7 @@ public class Product
 
 
 
+    // Getters and Setters
     public String Nome
     {
         get => nome;
