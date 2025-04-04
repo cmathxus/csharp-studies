@@ -1,8 +1,8 @@
 public class Product
 {
-    public String nome;
-    public double preco;
-    public int quantidade;
+    private String nome;
+    private double preco;
+    private int quantidade;
 
     public double valorTotalEmEstoque(){
         double p = preco * quantidade;
@@ -38,5 +38,34 @@ public class Product
         System.Console.WriteLine("Quantidade do produto em estoque: " + quantidade);
         System.Console.WriteLine("Valor total em estoque: " + valorTotalEmEstoque()); 
         System.Console.WriteLine("------------------------------");
+    }
+
+
+
+    public String Nome
+    {
+        get => nome;
+        set
+        {
+          nome = value;
+        }
+    }
+
+    public double Preco
+    {
+        get => preco;
+        set
+        {
+          preco = value;
+        }
+    }
+
+    public int Quantidade
+    {
+        get => quantidade;
+        set
+        {
+          quantidade = value;
+        }
     }
 }

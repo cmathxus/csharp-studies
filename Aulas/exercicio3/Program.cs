@@ -5,9 +5,9 @@ namespace exercicio3 {
         static void Main (String [] args) {
             Product produto1 = new Product ();
 
-            produto1.nome = "Coca cola";
-            produto1.preco = 5;
-            produto1.quantidade = 30;
+            produto1.Nome = "Coca cola";
+            produto1.Preco = 5;
+            produto1.Quantidade = 30;
 
             produto1.printer();
 
