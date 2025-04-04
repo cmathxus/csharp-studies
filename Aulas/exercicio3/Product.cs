@@ -34,9 +34,9 @@ public class Product
 
     public void printer(){
         System.Console.WriteLine("Nome do produto: " + nome);
-        System.Console.WriteLine("Preco do produto: " + preco);
+        System.Console.WriteLine("Preco do produto: $" + preco);
         System.Console.WriteLine("Quantidade do produto em estoque: " + quantidade);
-        System.Console.WriteLine("Valor total em estoque: " + valorTotalEmEstoque()); 
+        System.Console.WriteLine("Valor total em estoque: $" + valorTotalEmEstoque()); 
         System.Console.WriteLine("------------------------------");
     }
 
