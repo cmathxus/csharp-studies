@@ -14,26 +14,32 @@ namespace exercicio4{
             System.Console.Write("Digite o saldo da conta: R$");
             conta1.Saldo  = double.Parse(Console.ReadLine());
 
-            int x = 0;
-            if (x == 0) {
-            
-            System.Console.WriteLine("Qual operação você deseja realizar na conta? 1 - Depósito // 2 - Saque");
-            x = int.Parse(Console.ReadLine());
-
+            int opcao;
             do {
-            if (x == 1) {
-                
-            } else if (x == 2) {
-                conta1.saqueConta();
-            }
-            else {
-                System.Console.WriteLine("Erro: Número digitado incorreto");
-            }
-            } while (x == 1 || x == 2);
+                Console.WriteLine("\nQual operação você deseja realizar na conta?");
+                Console.WriteLine("1 - Depósito\n2 - Saque\n3 - Mostrar dados\n0 - Sair");
+                Console.Write("Opção: ");
+                opcao = int.Parse(Console.ReadLine());
 
-            System.Console.WriteLine("Deseja realizar outra operação? 1 - Sim // 2 - Não");
-            
-        }
-        }
-    }
+                switch (opcao) {
+                    case 1:
+                        conta1.depositoConta();
+                        break;
+                    case 2:
+                        conta1.saqueConta();
+                        break;
+                    case 3:
+                        conta1.printer();
+                        break;
+                    case 0:
+                        Console.WriteLine("Encerrando o programa...");
+                        break;
+                    default:
+                        Console.WriteLine("Opção inválida!");
+                        break;
+                }
+
+            } while (opcao != 0);
+}
+}
 }
