@@ -13,15 +13,15 @@ namespace exercicio3 {
             System.Console.Write("Quantidade: ");
             produto1.Quantidade = int.Parse(Console.ReadLine());
 
-            produto1.printer();
+            System.Console.WriteLine("Dados do produto: " + produto1);
 
             produto1.adicionarProdutos();
 
-            produto1.printer();
+            System.Console.WriteLine("Dados do produto: " + produto1);
 
             produto1.removerProdutos();
 
-            produto1.printer();
+            System.Console.WriteLine("Dados do produto: " + produto1);
         } 
     }
 }

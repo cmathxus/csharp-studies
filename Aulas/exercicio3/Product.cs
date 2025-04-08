@@ -1,3 +1,5 @@
+using System.Globalization;
+
 public class Product
 {
     private String nome;
@@ -31,15 +33,15 @@ public class Product
         quantidade -= novaQuantidade;
     }
 
-
-    public void printer(){
-        System.Console.WriteLine("Nome do produto: " + nome);
-        System.Console.WriteLine("Preco do produto: $" + preco);
-        System.Console.WriteLine("Quantidade do produto em estoque: " + quantidade);
-        System.Console.WriteLine("Valor total em estoque: $" + valorTotalEmEstoque()); 
-        System.Console.WriteLine("------------------------------");
+    public override string ToString(){ // Aprendendo object e ToString
+        return Nome 
+            + ", $ " 
+            + Preco.ToString("F2", CultureInfo.InvariantCulture)
+            + ", "
+            + Quantidade
+            + " unidades, Total: $ "
+            + valorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
     }
-
 
 
     // Getters and Setters
