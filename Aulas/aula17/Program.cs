@@ -15,14 +15,14 @@ namespace aula17
             Console.Write("Quantidade no estoque: ");
             
             int quantidade = int.Parse(Console.ReadLine());
-            
+
+            // Utilizando construtores
+            Produto p = new Produto(nome, preco, quantidade);
+
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
             Console.WriteLine();
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
-            
-            // Utilizando construtores
-            Produto p = new Produto(nome, preco, quantidade);
 
             int qte = int.Parse(Console.ReadLine());
 
