@@ -19,6 +19,14 @@ namespace aula17
             // Utilizando construtores
             Produto p = new Produto(nome, preco, quantidade);
 
+            Produto p2 = new Produto ();
+
+            Produto p3 = new Produto {
+                Nome = "TV",
+                Preco = 500,
+                Quantidade = 20
+            }; // Instanciando os valores em outra sintaxe (funciona mesmo sem construtores)
+
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
             Console.WriteLine();

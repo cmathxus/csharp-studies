@@ -22,6 +22,10 @@ public class Produto
         Quantidade = 0; // Linha descartável (pois já começa com 0), porém se quiser iniciar com um valor padrão tem como pelo construtor
     }
 
+    public Produto() {
+        
+    }
+
     public double ValorTotalEmEstoque()
     {
         return Preco * Quantidade;
