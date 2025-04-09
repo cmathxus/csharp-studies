@@ -1,0 +1,5 @@
+C:\Users\akirasz\projects\studies\aulas\exercicio7\bin\Release\net9.0\publish\exercicio7.exe
+C:\Users\akirasz\projects\studies\aulas\exercicio7\bin\Release\net9.0\publish\exercicio7.dll
+C:\Users\akirasz\projects\studies\aulas\exercicio7\bin\Release\net9.0\publish\exercicio7.deps.json
+C:\Users\akirasz\projects\studies\aulas\exercicio7\bin\Release\net9.0\publish\exercicio7.runtimeconfig.json
+C:\Users\akirasz\projects\studies\aulas\exercicio7\bin\Release\net9.0\publish\exercicio7.pdb
