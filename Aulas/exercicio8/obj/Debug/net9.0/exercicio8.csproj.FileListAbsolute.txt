@@ -1,0 +1,15 @@
+C:\Users\akirasz\projects\studies\Aulas\exercicio8\bin\Debug\net9.0\exercicio8.exe
+C:\Users\akirasz\projects\studies\Aulas\exercicio8\bin\Debug\net9.0\exercicio8.deps.json
+C:\Users\akirasz\projects\studies\Aulas\exercicio8\bin\Debug\net9.0\exercicio8.runtimeconfig.json
+C:\Users\akirasz\projects\studies\Aulas\exercicio8\bin\Debug\net9.0\exercicio8.dll
+C:\Users\akirasz\projects\studies\Aulas\exercicio8\bin\Debug\net9.0\exercicio8.pdb
+C:\Users\akirasz\projects\studies\Aulas\exercicio8\obj\Debug\net9.0\exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akirasz\projects\studies\Aulas\exercicio8\obj\Debug\net9.0\exercicio8.AssemblyInfoInputs.cache
+C:\Users\akirasz\projects\studies\Aulas\exercicio8\obj\Debug\net9.0\exercicio8.AssemblyInfo.cs
+C:\Users\akirasz\projects\studies\Aulas\exercicio8\obj\Debug\net9.0\exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\akirasz\projects\studies\Aulas\exercicio8\obj\Debug\net9.0\exercicio8.sourcelink.json
+C:\Users\akirasz\projects\studies\Aulas\exercicio8\obj\Debug\net9.0\exercicio8.dll
+C:\Users\akirasz\projects\studies\Aulas\exercicio8\obj\Debug\net9.0\refint\exercicio8.dll
+C:\Users\akirasz\projects\studies\Aulas\exercicio8\obj\Debug\net9.0\exercicio8.pdb
+C:\Users\akirasz\projects\studies\Aulas\exercicio8\obj\Debug\net9.0\exercicio8.genruntimeconfig.cache
+C:\Users\akirasz\projects\studies\Aulas\exercicio8\obj\Debug\net9.0\ref\exercicio8.dll
