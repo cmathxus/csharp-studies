@@ -4,10 +4,10 @@ namespace aula17;
 
 public class Produto
 {
-    public string Nome;
-    public double Preco;
-    public int Quantidade;
-
+    private string _nome;
+    public double Preco {get; private set;}
+    public int Quantidade {get; private set;}
+    
     // Utilizando construtores
     public Produto() {
         Quantidade = 10;
@@ -44,5 +44,14 @@ public class Produto
         + " unidades, Total: $ "
         + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
     }
+
+    public string Nome {
+        get { return _nome; }
+        set {
+            if (value != null && value.Length > 1) {
+                _nome = value;
+        }
+    }
+}
 }
 
