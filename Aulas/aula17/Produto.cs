@@ -9,21 +9,17 @@ public class Produto
     public int Quantidade;
 
     // Utilizando construtores
-    public Produto(string nome, double preco, int quantidade) {
-        Nome = nome;
-        Preco = preco;
-        Quantidade = quantidade;
-    }
-
-    // Fazendo a sobrecarga de construtores
-    public Produto(String nome, double preco) {
-        Nome = nome;
-        Preco = preco;
-        Quantidade = 0; // Linha descartável (pois já começa com 0), porém se quiser iniciar com um valor padrão tem como pelo construtor
-    }
-
     public Produto() {
-        
+        Quantidade = 10;
+    }
+
+    public Produto(string nome, double preco) : this () {
+        Nome = nome;
+        Preco = preco;
+    }
+
+    public Produto(string nome, double preco, int quantidade) : this (nome, preco) {
+        Quantidade = quantidade;
     }
 
     public double ValorTotalEmEstoque()
