@@ -70,7 +70,8 @@ public class Aluno
         get => nota3;
         set
         {
-          nota3 = value;
+            
+            nota3 = value;
         }
     }
 
