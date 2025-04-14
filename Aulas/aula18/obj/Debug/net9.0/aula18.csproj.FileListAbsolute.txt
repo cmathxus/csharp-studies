@@ -1,0 +1,15 @@
+C:\Users\akirasz\projects\studies\Aulas\aula18\bin\Debug\net9.0\aula18.exe
+C:\Users\akirasz\projects\studies\Aulas\aula18\bin\Debug\net9.0\aula18.deps.json
+C:\Users\akirasz\projects\studies\Aulas\aula18\bin\Debug\net9.0\aula18.runtimeconfig.json
+C:\Users\akirasz\projects\studies\Aulas\aula18\bin\Debug\net9.0\aula18.dll
+C:\Users\akirasz\projects\studies\Aulas\aula18\bin\Debug\net9.0\aula18.pdb
+C:\Users\akirasz\projects\studies\Aulas\aula18\obj\Debug\net9.0\aula18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akirasz\projects\studies\Aulas\aula18\obj\Debug\net9.0\aula18.AssemblyInfoInputs.cache
+C:\Users\akirasz\projects\studies\Aulas\aula18\obj\Debug\net9.0\aula18.AssemblyInfo.cs
+C:\Users\akirasz\projects\studies\Aulas\aula18\obj\Debug\net9.0\aula18.csproj.CoreCompileInputs.cache
+C:\Users\akirasz\projects\studies\Aulas\aula18\obj\Debug\net9.0\aula18.sourcelink.json
+C:\Users\akirasz\projects\studies\Aulas\aula18\obj\Debug\net9.0\aula18.dll
+C:\Users\akirasz\projects\studies\Aulas\aula18\obj\Debug\net9.0\refint\aula18.dll
+C:\Users\akirasz\projects\studies\Aulas\aula18\obj\Debug\net9.0\aula18.pdb
+C:\Users\akirasz\projects\studies\Aulas\aula18\obj\Debug\net9.0\aula18.genruntimeconfig.cache
+C:\Users\akirasz\projects\studies\Aulas\aula18\obj\Debug\net9.0\ref\aula18.dll
