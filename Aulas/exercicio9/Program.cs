@@ -33,7 +33,7 @@ namespace exercicio9 {
             for (int i = 0; i < 10; i++)
             {
                 if (quartos[i] != null) {
-                    System.Console.WriteLine($"Quarto {i}: Nome: {quartos[i].Estudante.Nome}, Email: {quartos[i].Estudante.Email}");
+                    System.Console.WriteLine($"Quarto {i}: \n Nome: {quartos[i].Estudante.Nome} \n Email: {quartos[i].Estudante.Email}");
                 }
             }
         }
