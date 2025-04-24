@@ -1,0 +1,15 @@
+C:\Users\akirasz\projects\studies\Aulas\aula24\bin\Debug\net9.0\aula24.exe
+C:\Users\akirasz\projects\studies\Aulas\aula24\bin\Debug\net9.0\aula24.deps.json
+C:\Users\akirasz\projects\studies\Aulas\aula24\bin\Debug\net9.0\aula24.runtimeconfig.json
+C:\Users\akirasz\projects\studies\Aulas\aula24\bin\Debug\net9.0\aula24.dll
+C:\Users\akirasz\projects\studies\Aulas\aula24\bin\Debug\net9.0\aula24.pdb
+C:\Users\akirasz\projects\studies\Aulas\aula24\obj\Debug\net9.0\aula24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akirasz\projects\studies\Aulas\aula24\obj\Debug\net9.0\aula24.AssemblyInfoInputs.cache
+C:\Users\akirasz\projects\studies\Aulas\aula24\obj\Debug\net9.0\aula24.AssemblyInfo.cs
+C:\Users\akirasz\projects\studies\Aulas\aula24\obj\Debug\net9.0\aula24.csproj.CoreCompileInputs.cache
+C:\Users\akirasz\projects\studies\Aulas\aula24\obj\Debug\net9.0\aula24.sourcelink.json
+C:\Users\akirasz\projects\studies\Aulas\aula24\obj\Debug\net9.0\aula24.dll
+C:\Users\akirasz\projects\studies\Aulas\aula24\obj\Debug\net9.0\refint\aula24.dll
+C:\Users\akirasz\projects\studies\Aulas\aula24\obj\Debug\net9.0\aula24.pdb
+C:\Users\akirasz\projects\studies\Aulas\aula24\obj\Debug\net9.0\aula24.genruntimeconfig.cache
+C:\Users\akirasz\projects\studies\Aulas\aula24\obj\Debug\net9.0\ref\aula24.dll
